@@ -44,6 +44,32 @@ http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:-1 tvg-name="İdman TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png/640px-%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png" tvg-id="IdmanTV.az" tvg-country="AZ" group-title="Azerbaijan",İdman TV Ⓢ
 http://109.205.166.68/server124/idman_az/index.m3u8
 
+## ── Федеральные РУ ──
+#EXTINF:-1 tvg-name="Домашний HD" tvg-logo="https://iptvx.one/picons/domashniy.png" tvg-country="RU" group-title="Федеральные РУ",Домашний HD
+https://master.iptv.rt.ru/iptv/ch34/index.m3u8
+#EXTINF:-1 tvg-name="Культура HD" tvg-logo="https://iptvx.one/picons/kultura.png" tvg-country="RU" group-title="Федеральные РУ",Культура HD
+https://master.iptv.rt.ru/iptv/ch04/index.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ HD" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-country="RU" group-title="Федеральные РУ",Матч ТВ HD
+https://master.iptv.rt.ru/iptv/ch26/index.m3u8
+#EXTINF:-1 tvg-name="Мир HD" tvg-logo="https://iptvx.one/picons/mir.png" tvg-country="RU" group-title="Федеральные РУ",Мир HD
+https://master.iptv.rt.ru/iptv/ch33/index.m3u8
+#EXTINF:-1 tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr.png" tvg-country="RU" group-title="Федеральные РУ",ОТР HD
+https://master.iptv.rt.ru/iptv/ch08/index.m3u8
+#EXTINF:-1 tvg-name="Пятница! HD" tvg-logo="https://iptvx.one/picons/pyatnitsa.png" tvg-country="RU" group-title="Федеральные РУ",Пятница! HD
+https://master.iptv.rt.ru/iptv/ch54/index.m3u8
+#EXTINF:-1 tvg-name="Пятый канал HD" tvg-logo="https://iptvx.one/picons/5-kanal.png" tvg-country="RU" group-title="Федеральные РУ",Пятый канал HD
+https://master.iptv.rt.ru/iptv/ch05/index.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-country="RU" group-title="Федеральные РУ",РЕН ТВ HD
+https://master.iptv.rt.ru/iptv/ch16/index.m3u8
+#EXTINF:-1 tvg-name="СПАС HD" tvg-logo="https://iptvx.one/picons/spas.png" tvg-country="RU" group-title="Федеральные РУ",СПАС HD
+https://master.iptv.rt.ru/iptv/ch36/index.m3u8
+#EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts.png" tvg-country="RU" group-title="Федеральные РУ",СТС HD
+https://master.iptv.rt.ru/iptv/ch07/index.m3u8
+#EXTINF:-1 tvg-name="ТВ Центр HD" tvg-logo="https://iptvx.one/picons/tvc.png" tvg-country="RU" group-title="Федеральные РУ",ТВ Центр HD
+https://master.iptv.rt.ru/iptv/ch25/index.m3u8
+#EXTINF:-1 tvg-name="ТВ-3 HD" tvg-logo="https://iptvx.one/picons/tv3.png" tvg-country="RU" group-title="Федеральные РУ",ТВ-3 HD
+https://master.iptv.rt.ru/iptv/ch27/index.m3u8
+
 ## ── Местные ──
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="Местные",12 Канал (Омск)
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
@@ -1257,6 +1283,30 @@ http://195.26.83.96:7013/play/a00f/index.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" group-title="Спортивные",Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" tvg-country="RU" group-title="Спортивные",Eurosport 1 HD
+https://master.iptv.rt.ru/iptv/ch95/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="https://iptvx.one/picons/eurosport2.png" tvg-country="RU" group-title="Спортивные",Eurosport 2 HD
+https://master.iptv.rt.ru/iptv/ch96/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD" tvg-logo="https://iptvx.one/picons/setanta.png" tvg-country="RU" group-title="Спортивные",Setanta Sports HD
+https://master.iptv.rt.ru/iptv/ch101/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Golf HD" tvg-logo="https://iptvx.one/picons/viasat-golf.png" tvg-country="RU" group-title="Спортивные",Viasat Golf HD
+https://master.iptv.rt.ru/iptv/ch98/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Hockey HD" tvg-logo="https://iptvx.one/picons/viasat-hockey.png" tvg-country="RU" group-title="Спортивные",Viasat Hockey HD
+https://master.iptv.rt.ru/iptv/ch99/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Sport HD" tvg-logo="https://iptvx.one/picons/viasat-sport.png" tvg-country="RU" group-title="Спортивные",Viasat Sport HD
+https://master.iptv.rt.ru/iptv/ch97/index.m3u8
+#EXTINF:-1 tvg-name="КХЛ HD" tvg-logo="https://iptvx.one/picons/khl.png" tvg-country="RU" group-title="Спортивные",КХЛ HD
+https://master.iptv.rt.ru/iptv/ch100/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена HD" tvg-logo="https://iptvx.one/picons/match-arena.png" tvg-country="RU" group-title="Спортивные",Матч! Арена HD
+https://master.iptv.rt.ru/iptv/ch91/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Премьер HD" tvg-logo="https://iptvx.one/picons/match-premier.png" tvg-country="RU" group-title="Спортивные",Матч! Премьер HD
+https://master.iptv.rt.ru/iptv/ch90/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-logo="https://iptvx.one/picons/match-futbol1.png" tvg-country="RU" group-title="Спортивные",Матч! Футбол 1 HD
+https://master.iptv.rt.ru/iptv/ch92/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-logo="https://iptvx.one/picons/match-futbol2.png" tvg-country="RU" group-title="Спортивные",Матч! Футбол 2 HD
+https://master.iptv.rt.ru/iptv/ch93/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="https://iptvx.one/picons/match-futbol3.png" tvg-country="RU" group-title="Спортивные",Матч! Футбол 3 HD
+https://master.iptv.rt.ru/iptv/ch94/index.m3u8
 
 ## ── Кино и сериалы ──
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="Кино и сериалы", 312 Кино
@@ -1631,6 +1681,42 @@ http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Кино и сериалы (Российские)",Viju TV1000 русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+
+## ── Кино и сериалы RU ──
+#EXTINF:-1 tvg-name="Amedia 1 HD" tvg-logo="https://iptvx.one/picons/amedia-1.png" tvg-country="RU" group-title="Кино и сериалы RU",Amedia 1 HD
+https://master.iptv.rt.ru/iptv/ch131/index.m3u8
+#EXTINF:-1 tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia-2.png" tvg-country="RU" group-title="Кино и сериалы RU",Amedia 2 HD
+https://master.iptv.rt.ru/iptv/ch132/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-logo="https://iptvx.one/picons/amedia-hit.png" tvg-country="RU" group-title="Кино и сериалы RU",Amedia Hit HD
+https://master.iptv.rt.ru/iptv/ch133/index.m3u8
+#EXTINF:-1 tvg-name="Bolt HD" tvg-logo="https://iptvx.one/picons/bolt.png" tvg-country="RU" group-title="Кино и сериалы RU",Bolt HD
+https://master.iptv.rt.ru/iptv/ch141/index.m3u8
+#EXTINF:-1 tvg-name="VIP Comedy HD" tvg-logo="https://iptvx.one/picons/vip-comedy.png" tvg-country="RU" group-title="Кино и сериалы RU",VIP Comedy HD
+https://master.iptv.rt.ru/iptv/ch152/index.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" tvg-country="RU" group-title="Кино и сериалы RU",VIP Megahit HD
+https://master.iptv.rt.ru/iptv/ch150/index.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" tvg-country="RU" group-title="Кино и сериалы RU",VIP Premiere HD
+https://master.iptv.rt.ru/iptv/ch151/index.m3u8
+#EXTINF:-1 tvg-name="Дом Кино Premium HD" tvg-logo="https://iptvx.one/picons/dom-kino-premium.png" tvg-country="RU" group-title="Кино и сериалы RU",Дом Кино Premium HD
+https://master.iptv.rt.ru/iptv/ch170/index.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия HD" tvg-logo="https://iptvx.one/picons/kinokomediya.png" tvg-country="RU" group-title="Кино и сериалы RU",Кинокомедия HD
+https://master.iptv.rt.ru/iptv/ch105/index.m3u8
+#EXTINF:-1 tvg-name="Киномикс HD" tvg-logo="https://iptvx.one/picons/kinomix.png" tvg-country="RU" group-title="Кино и сериалы RU",Киномикс HD
+https://master.iptv.rt.ru/iptv/ch117/index.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD" tvg-logo="https://iptvx.one/picons/kinopokaz.png" tvg-country="RU" group-title="Кино и сериалы RU",Кинопоказ HD
+https://master.iptv.rt.ru/iptv/ch104/index.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера HD" tvg-logo="https://iptvx.one/picons/kinopremyera.png" tvg-country="RU" group-title="Кино и сериалы RU",Кинопремьера HD
+https://master.iptv.rt.ru/iptv/ch118/index.m3u8
+#EXTINF:-1 tvg-name="Наше Кино HD" tvg-logo="https://iptvx.one/picons/nashe-kino.png" tvg-country="RU" group-title="Кино и сериалы RU",Наше Кино HD
+https://master.iptv.rt.ru/iptv/ch171/index.m3u8
+#EXTINF:-1 tvg-name="Родное Кино HD" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" tvg-country="RU" group-title="Кино и сериалы RU",Родное Кино HD
+https://master.iptv.rt.ru/iptv/ch172/index.m3u8
+#EXTINF:-1 tvg-name="Русский Бестселлер HD" tvg-logo="https://iptvx.one/picons/russkiy-bestseller.png" tvg-country="RU" group-title="Кино и сериалы RU",Русский Бестселлер HD
+https://master.iptv.rt.ru/iptv/ch160/index.m3u8
+#EXTINF:-1 tvg-name="Русский Детектив HD" tvg-logo="https://iptvx.one/picons/russkiy-detektiv.png" tvg-country="RU" group-title="Кино и сериалы RU",Русский Детектив HD
+https://master.iptv.rt.ru/iptv/ch161/index.m3u8
+#EXTINF:-1 tvg-name="Русский Роман HD" tvg-logo="https://iptvx.one/picons/russkiy-roman.png" tvg-country="RU" group-title="Кино и сериалы RU",Русский Роман HD
+https://master.iptv.rt.ru/iptv/ch162/index.m3u8
 
 ## ── Кинозал ──
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://iptvx.one/picons/amc.png" group-title="Кинозал",AMC
@@ -2567,6 +2653,18 @@ http://195.26.83.96:7013/play/37/index.m3u8
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные",Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://iptvx.one/picons/animal-planet.png" tvg-country="RU" group-title="Познавательные",Animal Planet HD
+https://master.iptv.rt.ru/iptv/ch202/index.m3u8
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://iptvx.one/picons/history.png" tvg-country="RU" group-title="Познавательные",History HD
+https://master.iptv.rt.ru/iptv/ch203/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://iptvx.one/picons/nat-geo.png" tvg-country="RU" group-title="Познавательные",National Geographic HD
+https://master.iptv.rt.ru/iptv/ch201/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-logo="https://iptvx.one/picons/viasat-explore.png" tvg-country="RU" group-title="Познавательные",Viasat Explore HD
+https://master.iptv.rt.ru/iptv/ch206/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-country="RU" group-title="Познавательные",Viasat History HD
+https://master.iptv.rt.ru/iptv/ch205/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-logo="https://iptvx.one/picons/viasat-nature.png" tvg-country="RU" group-title="Познавательные",Viasat Nature HD
+https://master.iptv.rt.ru/iptv/ch204/index.m3u8
 
 ## ── Образовательные ──
 #EXTINF:-1 tvg-id="english-club-tv" tvg-logo="https://iptvx.one/picons/english-club-tv.png" group-title="Образовательные",English Club TV
